@@ -1,4 +1,4 @@
-# capstone-project-1-Statistical-Arbitrage-on-Banking-stocks-using-Linear-Regression-
+# Statistical-Arbitrage-on-Banking-stocks-using-Linear-Regression-
 
 In financial markets and in the real world there are time series which are cointegrated. In general terms if  two time series are ‘cointegrated’ then it means, that the two time-series move together and if  at all there is a deviation from this movement, it is either temporary or can be attributed to a  stray event, and one can expect the two time-series to revert to its regular orbit i.e. converge  and move together again. This type of time series is exactly what we want to find in financial  markets. 
 
